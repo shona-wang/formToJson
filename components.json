@@ -1,0 +1,13 @@
+{
+    "category": "./packages/category/index.js",
+    "radio": "./packages/radio/index.js",
+    "checkbox": "./packages/checkbox/index.js",
+    "title": "./packages/title/index.js",
+    "text": "./packages/text/index.js",
+    "textarea": "./packages/textarea/index.js",
+    "image": "./packages/image/index.js",
+    "date": "./packages/date/index.js",
+    "address": "./packages/address/index.js",
+    "tree": "./packages/tree/index.js",
+    "number": "./packages/number/index.js"
+}

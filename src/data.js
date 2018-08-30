@@ -1,0 +1,13 @@
+import categoryData from '../packages/category/data.js';
+import radioData from '../packages/radio/data.js';
+import checkboxData from '../packages/checkbox/data.js';
+import titleData from '../packages/title/data.js';
+import textData from '../packages/text/data.js';
+import textareaData from '../packages/textarea/data.js';
+import imageData from '../packages/image/data.js';
+import dateData from '../packages/date/data.js';
+import addressData from '../packages/address/data.js';
+import treeData from '../packages/tree/data.js';
+import numberData from '../packages/number/data.js';
+    let dataJson = {categoryData,radioData,checkboxData,titleData,textData,textareaData,imageData,dateData,addressData,treeData,numberData};
+    export default dataJson;
